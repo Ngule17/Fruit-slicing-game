@@ -1,0 +1,1 @@
+Once we click on the start button we get fruits from the sky and we are suppused to slice them. If we slice a fruit we get a point and our score goes up by one. Once we miss a fruit, we miss a trial, and once we lose all the 3 initial trials, it is a game over.
